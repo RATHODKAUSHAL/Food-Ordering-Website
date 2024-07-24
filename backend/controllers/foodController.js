@@ -38,7 +38,7 @@ const listFood = async (req, res) => {
 }
 
 
-//remove fod item
+//delete fod item
 const removeFood = async (req, res) => {
     try {
         //To find the image by an id
